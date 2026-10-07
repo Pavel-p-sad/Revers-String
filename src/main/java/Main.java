@@ -1,4 +1,4 @@
-package test.java;
+package main.java;
 
 public class Main {
     private static String s = "J@va the be$t!123";
